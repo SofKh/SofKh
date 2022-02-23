@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 Je debute en programmation
 Je souhaite maitriser le code grace a ma formation
 J'ai envie d'apprendre a developper un logiciel a la fin du programme
-
+J'aime jouer au soccer et aller au gym
 -
