@@ -1,4 +1,4 @@
-mon nom est sofiane
-je n'ai pas du tout d'experience en programmation
-j'aimerai maitriser le codage grace a ce cours
-Je souhaiterai savoir creer un logiciel a la fin de la formation
+Mon nom est Sofiane"\n"
+Je n'ai pas du tout d'experience en programmation"\n"
+J'aimerai maitriser le codage grace a ce cours"\n"
+Je souhaiterai savoir créer un logiciel à la fin de la formation
