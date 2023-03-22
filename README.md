@@ -1,4 +1,6 @@
 Mon nom est Sofiane  
-Je n'ai pas du tout d'expérience en programmation  
-J'aimerai maitriser le codage grâce à ce cours  
-Je souhaiterai savoir créer un logiciel à la fin de la formation  
+Je termine actuellement ma formation en tant que Développeur Web, Applications, Logiciels (Bureau-Mobile-Web)
+Je suis actuellement à la recherche active d'un stage dans ce domaine
+La date de début est fixé au 10 Avril 2023, pour une durée de 8 semaines
+Ayant travaillé seul et en équipe sur différents projets, j'apporterai mes compétences, ma curiosité, mon écoute 
+et mon envie d'apprendre afin d'atteindre les objectifs fixés.
